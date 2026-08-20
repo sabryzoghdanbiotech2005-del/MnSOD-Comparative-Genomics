@@ -1,0 +1,37 @@
+===========================================
+Mn-SOD Comparative Genomics Project
+===========================================
+
+1. Species used:
+   - Escherichia coli (reference)
+   - Pseudomonas aeruginosa
+   - Bacillus subtilis
+   - Staphylococcus aureus
+   - Salmonella enterica
+
+2. Tools used:
+   - NCBI BLAST (sequence retrieval)
+   - Clustal Omega (Multiple Sequence Alignment)
+   - FastTree (Phylogenetic tree)
+
+3. Key Results:
+   - E. coli and Salmonella are 99.9% identical (distance: 0.000000005)
+   - Pseudomonas aeruginosa is the most distant (distance: 0.361)
+   - Bacillus and Staphylococcus are moderately close (distance: 0.100 - 0.266)
+
+4. Conserved Motif Identified:
+   - YAYDALEPHID (metal-binding site)
+   - Histidine residues at active site
+
+5. Phylogenetic Tree (Newick format):
+   (AZP68180.1:0.361497870,(UUF21481.1:0.024771997,ARO96817.1:0.000000005)1.000:0.388276492,(RUS08747.1:0.100849980,KKI65849.1:0.266683677)0.983:0.179175492);
+
+6. Conclusion:
+   - Mn-SOD is highly conserved among Enterobacteriaceae
+   - Pseudomonas shows significant evolutionary divergence
+   - The active site residues are conserved across all species
+
+===========================================
+Done by: [Sabry Ali Zoghdan]
+Date: August 2026
+===========================================
