@@ -27,4 +27,7 @@ Comparative analysis of Manganese Superoxide Dismutase (Mn-SOD) across five bact
 - `Report.txt` - Full analysis report
 
 ## Author
+**Sabry Ali Zoghdan**
+
+## Author
 [Sabry Ali Zoghdan]
